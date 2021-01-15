@@ -1,2 +1,2 @@
-This is first git commit file.
+Im trying to learning git.
 git is more beautiful system in this sector!
